@@ -1,0 +1,5 @@
+C:\Users\91976\Desktop\DotNet\StudentManagement\JIDBFramwork\bin\Debug\JIDBFramwork.dll
+C:\Users\91976\Desktop\DotNet\StudentManagement\JIDBFramwork\bin\Debug\JIDBFramwork.pdb
+C:\Users\91976\Desktop\DotNet\StudentManagement\JIDBFramwork\obj\Debug\JIDBFramwork.dll
+C:\Users\91976\Desktop\DotNet\StudentManagement\JIDBFramwork\obj\Debug\JIDBFramwork.pdb
+C:\Users\91976\Desktop\DotNet\StudentManagement\JIDBFramwork\obj\Debug\JIDBFramwork.csprojResolveAssemblyReference.cache

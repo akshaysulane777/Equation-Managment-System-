@@ -1,0 +1,17 @@
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Screens.Templets.TempletForm.resources
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.exe
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.pdb
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Screens.LoginForm.resources
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Screens.DashboardForm.resources
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\bin\Debug\JIDBFramwork.dll
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\bin\Debug\JIDBFramwork.pdb
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Screens.Branches.BranchInfoForm.resources
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Screens.Branches.ManageBranchesForm.resources
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Screens.Employees.EmployeeInfoForm.resources
+C:\Users\91976\Desktop\DotNet\StudentManagement\StudentManagement\obj\x86\Debug\StudentManagement.Screens.Employees.ManageEmployeesForm.resources
